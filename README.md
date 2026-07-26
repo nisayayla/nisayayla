@@ -3,8 +3,8 @@
 </h3>
 <h3 align="center">As a Computer Programming student, I am seeking a summer internship to enhance the theoretical knowledge I have gained throughout my education through practical experience and to develop industry-related skills. I am particularly focused on improving my abilities in **C#, C, JavaScript, and web development technologies**. During my studies, I have worked on object-oriented programming, algorithm development, and web-based application projects. I am eager to learn, responsible, detail-oriented, solution-focused, and able to work effectively as part of a team.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/nisa.yylaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nisa.yylaa" height="30" width="40" /></a>
 </p>
 
